@@ -4872,11 +4872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saniu\\Dot NEt Project\\PatinetCURDAPP\\PatientManagement\\PatientManagement.csproj",
+      "projectUniqueName": "C:\\Users\\saniu\\Flutter App Project\\Simple-Project-Asp-.Net\\PatientManagement.csproj",
       "projectName": "PatientManagement",
-      "projectPath": "C:\\Users\\saniu\\Dot NEt Project\\PatinetCURDAPP\\PatientManagement\\PatientManagement.csproj",
+      "projectPath": "C:\\Users\\saniu\\Flutter App Project\\Simple-Project-Asp-.Net\\PatientManagement.csproj",
       "packagesPath": "C:\\Users\\saniu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saniu\\Dot NEt Project\\PatinetCURDAPP\\PatientManagement\\obj\\",
+      "outputPath": "C:\\Users\\saniu\\Flutter App Project\\Simple-Project-Asp-.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

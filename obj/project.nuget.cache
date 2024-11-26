@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeDV2oSWJDs=",
+  "dgSpecHash": "b8xQlPsMViM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saniu\\Dot NEt Project\\PatinetCURDAPP\\PatientManagement\\PatientManagement.csproj",
+  "projectFilePath": "C:\\Users\\saniu\\Flutter App Project\\Simple-Project-Asp-.Net\\PatientManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saniu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\saniu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

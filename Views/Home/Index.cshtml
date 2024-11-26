@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<PatientManagementApp.Models.Patients>
 
 <h1>Patient List</h1>
-
+<a href="@Url.Action("Create", "Home")" class="btn btn-primary mb-3">Add New Patient</a>
 <!-- Display success message if available -->
 @if (TempData["Message"] != null)
 {

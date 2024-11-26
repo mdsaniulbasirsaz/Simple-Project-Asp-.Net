@@ -36,6 +36,24 @@ namespace PatientManagementApp.Controllers
             return Json(new { success = true, message = "Patient deleted successfully!" });
         }
 
+        //GET: Patinets/Create
+        public IActionResult Create()
+        {
+            return View();
+        }
+        //POST: Patients/Create
+        [HttpPost]
+        public IActionResult Create(Patients Patient)
+        {
+            if(ModelState.IsValid)
+            {
+                _context.Patients.Add(Patient);
+                _context.SaveChanges();
+                TempData["Message"] = "Patient added successfully!";
+                return RedirectToAction(nameof(Index));
+            }
+            return View(Patient);
+        }
 
     }
 }
